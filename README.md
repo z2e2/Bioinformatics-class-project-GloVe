@@ -16,3 +16,9 @@
 2. metabolite_table.csv: metabolite concentration per sample
 
 Both tables have labels (CD, UC and Control) and sample id that ties species frequence and metabolite concentration together.
+
+## Overall goal:
+
+Apply GLoVe embedding to study the metabolite and species association to Crohn’s disease
+
+The students working on this project should come up with detailed research directions and delieverables.
