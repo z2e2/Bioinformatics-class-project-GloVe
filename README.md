@@ -8,7 +8,7 @@
 
 3. General GloVe embedding tutorial can be found in [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
 
-4. Some code example: [GloVe embedding for abundance table Github Repo](https://github.com/MaudeDavidLab/embeddings_final)
+4. Some code example: [GloVe embedding demo](https://github.com/stanfordnlp/GloVe/blob/master/demo.sh)
 
 ## Data explanation:
 
@@ -18,6 +18,8 @@
 Both tables have labels (CD, UC and Control) and sample id that ties species frequence and metabolite concentration together.
 
 ## Overall goal:
+
+** you will need to install GloVe software for this project **
 
 Apply GLoVe embedding to study the metabolite and species association to Crohn’s disease
 
