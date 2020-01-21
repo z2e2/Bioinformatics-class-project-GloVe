@@ -19,7 +19,7 @@ Both tables have labels (CD, UC and Control) and sample id that ties species fre
 
 ## Overall goal:
 
-**you will need to install GloVe software for this project**
+**you will need to install [GloVe software](https://github.com/stanfordnlp/GloVe) for this project**
 
 Apply GLoVe embedding to study the metabolite and species association to Crohn’s disease
 
